@@ -1,0 +1,55 @@
+.resim {
+    text-align: center;
+}
+
+.yeni {
+    width: 90%;
+    height: auto;
+    background-color: rgb(238,238,238);
+    margin-left: 5%;
+}
+
+.deneme2 {
+    float: left;
+    height: auto;
+    width: 510px;
+    margin: 0px 1px 0px 1px;
+    padding: 10px;
+    
+}
+
+.deneme3 {
+    float: left;
+    height: 85px;
+    width: 130px;
+    margin: 0px 1px 0px 1px;
+    padding: 10px;
+}
+.deneme4 {
+    margin-left: 67px;
+}
+
+.deneme6{
+    float: left;
+    height: 85px;
+    width: 510px;
+    margin: 0px 1px 0px 1px;
+    padding: 10px;
+}
+
+ .kutu1 {
+     background-color: rgb(126,229,218);
+ }
+
+ .kutu2 {
+     background-color: rgb(112,204,194);
+ }
+
+ .kutu3 {
+     background-color: rgb(98,179,170);
+ }
+
+ .copiright {
+     float: left;
+     margin-top: 10px;
+ }
